@@ -1,0 +1,17 @@
+beautifulsoup4
+cryptography
+eland[pytorch]
+elasticsearch
+google-generativeai
+langchain
+langchain-elasticsearch
+langchain_huggingface
+numpy
+pandas
+PyMuPDF
+pymysql
+python-dotenv
+requests
+sentence-transformers
+transformers
+unstructured

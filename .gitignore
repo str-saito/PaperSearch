@@ -1,0 +1,4 @@
+.env
+_templates
+Dockerfile_crawling
+cache/*
